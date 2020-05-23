@@ -1,0 +1,2 @@
+jar -cfm SongS_project2.jar manifest.txt *.class *.java (change the project number if needed)
+java -jar SongS_project2.jar LLReverse_Data.txt out1.txt out2.txt (change the the project number and input file)
